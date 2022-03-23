@@ -20,3 +20,4 @@ A simple console based desktop application for storing various categories of pho
     1. Storing and Retrieving from file system
     2. Storing and Retreiving from Database using SQL and JDBC(Still to be Implemented)
 -  Maven - for Dependency management from mvn repository
+-  Junit - Test Driven Development (Yet to Implement)
