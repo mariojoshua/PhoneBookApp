@@ -11,9 +11,9 @@ A simple console based desktop application for storing various categories of pho
     2. Singleton - created a singleton logger
     3. DAO Factory ( to switch between file and database storage) -(Yet to Implement)
 - Data Structures
-    1.Creating a dataholder bean class with overridden equals, hashcode,toString.
-    2.Using a list to do crud operations and for moving between concersn on the dataholder class.
-    3.Comparable and comparator classes for natural and unnatural ordering
+    1. Creating a dataholder bean class with overridden equals, hashcode,toString.
+    2. Using a list to do crud operations and for moving between concersn on the dataholder class.
+    3. Comparable and comparator classes for natural and unnatural ordering
 - Validation
     1. Using String Class
     2. Using Regex (Yet to Implement)
